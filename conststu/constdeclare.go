@@ -1,6 +1,5 @@
 package conststu
 //常量的声明
-
 //方式1
 const NAME string = "xyp"
 //方式2

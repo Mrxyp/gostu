@@ -5,5 +5,4 @@ import _"gostu/importstu/test2"
 import asname "fmt"
 func main() {
 	asname.Println("balabala.."+"附加大了")
-
 }
